@@ -11,4 +11,4 @@ slug: ipsum
 title: Ipsum
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+I'm Wanyu Wang from London Business School. I'm 22 years old and come from China. I graduated from Peking University in Beijing, China.

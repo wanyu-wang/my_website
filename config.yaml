@@ -83,28 +83,28 @@ params:
     showcase:
       - image: pic01.jpg
         subtitle: Look at me!
-        title: My photos
+        title: My Photos
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: This is me.
         title: My CV
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: See my work
+        title: My Work
         url: blogs/magna
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: Know about me
+        title: My Biography
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+#      - image: pic05.jpg
+#        subtitle: Ipsum Dolor Sit Amet
+#        title: Consequat
+#        url: blogs/ipsum
+#      - image: pic06.jpg
+#        subtitle: Feugiat Amet Tempus
+#        title: Etiam
+#        url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
