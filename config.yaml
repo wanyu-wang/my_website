@@ -1,6 +1,6 @@
 baseURL: https://wanyu-wang-website.netlify.app/
 languageCode: en-us
-title: website for Wanyu Wang
+title: Portfolio website for Wanyu Wang
 theme: Call me Sam.
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,9 +8,9 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Wanyu Wang
+      Aha!
+      This is Winnie.
+    title: Hi, my name is Wanyu Wang. Welcome to my website!
   blog: {}
   contact:
     address:
@@ -35,46 +35,46 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: London Business School
     enable: yes
     quicklinks:
       - alt: HTML5 UP
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
+#      - icon: fa-twitter
+#        label: Twitter
+#        url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/profile.php?id=100023920160600&sk=about
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com/bonnieshark_w/
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/wanyu-wang/
       - icon: fa-linkedin
-        label: LinkedIn
-        url: https://www.linkedin.com
+#        label: LinkedIn
+#        url: https://www.linkedin.com
   image: ''
   name: Wanyu Wang
   navigation:
     button1:
       - name: Get Started
         url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+#    button2:
+#      - name: Log In
+#        url: '#'
     links:
       - name: Home
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+#      - name: Generic Blog
+#        url: blogs/ipsum
+#      - name: Elements
+#        url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
@@ -83,7 +83,7 @@ params:
     showcase:
       - image: pic01.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        title: My photos
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
