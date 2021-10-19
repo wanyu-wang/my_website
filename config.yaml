@@ -1,7 +1,7 @@
-baseURL: http://example.org/
+baseURL: https://wanyu-wang-website.netlify.app/
 languageCode: en-us
 title: website for Wanyu Wang
-theme: forty
+theme: Call me Sam.
 googleAnalytics: ''
 disqusShortname: ''
 params:
@@ -29,7 +29,7 @@ params:
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
+  description: I am Wanyu Wang from London Business School.
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
@@ -50,7 +50,7 @@ params:
         url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/bonnieshark_w/
       - icon: fa-github
         label: GitHub
         url: https://www.github.com
@@ -58,7 +58,7 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com
   image: ''
-  name: Your name
+  name: Wanyu Wang
   navigation:
     button1:
       - name: Get Started
