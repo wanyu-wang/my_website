@@ -1,7 +1,7 @@
 baseURL: https://wanyu-wang-website.netlify.app/
 languageCode: en-us
 title: Portfolio website for Wanyu Wang
-theme: Forty
+theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
