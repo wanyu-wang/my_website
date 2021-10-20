@@ -55,8 +55,8 @@ params:
         label: GitHub
         url: https://github.com/wanyu-wang/
       - icon: fa-linkedin
-#        label: LinkedIn
-#        url: https://www.linkedin.com
+        label: LinkedIn
+        url: https://www.linkedin.com/in/皖豫-王-511825219/
   image: ''
   name: Wanyu Wang
   navigation:
