@@ -8,7 +8,7 @@ draft: false
 image: pic10.jpg
 keywords: ""
 slug: ipsum
-title: Ipsum
+title: Winnie's Biography
 ---
 
 I'm Wanyu Wang from London Business School. I'm 22 years old and come from China. I graduated from Peking University in Beijing, China.
