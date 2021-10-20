@@ -108,6 +108,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: Hi welcome to Winnie's blog. \n You can see my life here. \n Enjoy yourself exploring my website.
+    subtitle: Hi welcome to Winnie's blog. You can see my life here. Enjoy yourself exploring my website.
     title: Winnie's Blog
     url: blogs
