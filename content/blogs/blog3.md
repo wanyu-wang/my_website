@@ -14,4 +14,4 @@ slug: tempus
 title: Winnie's CV
 ---
 
-Hi this is my CV.
+Hi this is my [CV](https://maipdf.com/pdf/?e=enkAYYHM5SVdw6). Get a better know of me by reading my CV.
