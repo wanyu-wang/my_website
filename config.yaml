@@ -14,7 +14,7 @@ params:
   blog: {}
   contact:
     address:
-      - city: London, ST 678192
+      - city: London, ST 00000
         country: UK
         street: Sussex Place
         title: Address
@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (233) 789-3456 x1234
+      - phone: (233) 789-0000 x1234
         title: Phone
   custom_css: []
   custom_js: []
